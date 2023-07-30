@@ -1,0 +1,1 @@
+https://socialify.git.ci/ikhsanskuy/youth-preneur/image?description=1&descriptionEditable=Youth%20preneur%20is%20seminar%20about%20personal%20development%2C%20digital%20marketing%2C%20workshop%20and%20business%20talkshow&font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark
