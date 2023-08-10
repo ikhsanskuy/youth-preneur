@@ -33,6 +33,11 @@ cd *file directory*
 ```
 open on your localhost
 ```
+<h4>Database</h4>
+
+```
+import database.sql
+```
   
   
 <h2>💻 Built with</h2>
